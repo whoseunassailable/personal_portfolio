@@ -9,6 +9,7 @@ import '../../presentation/tablet_home_screen.dart';
 import '../constants/routes.dart';
 part 'app_router.g.dart';
 
+@riverpod
 GoRouter goRouter(GoRouterRef ref) {
   return GoRouter(
     initialLocation: '/',
