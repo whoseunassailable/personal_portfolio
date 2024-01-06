@@ -97,11 +97,101 @@ abstract class AppLocalizations {
   /// **'Hello World!'**
   String get helloWorld;
 
-  /// No description provided for @nub.
+  /// No description provided for @aboutMe.
   ///
   /// In en, this message translates to:
-  /// **'Noob'**
-  String get nub;
+  /// **'About Me'**
+  String get aboutMe;
+
+  /// No description provided for @name.
+  ///
+  /// In en, this message translates to:
+  /// **'Hi! I am Rohan Bhande \nFlutter Developer'**
+  String get name;
+
+  /// No description provided for @applicationDeveloper.
+  ///
+  /// In en, this message translates to:
+  /// **'Flutter Developer'**
+  String get applicationDeveloper;
+
+  /// No description provided for @selfDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'I am an Indian based Flutter developer focused \n on crafting clean & user-friendly mobile applications.\nI am extremely passionate about building excellent\nsoftware that improves the lives of those around me. '**
+  String get selfDescription;
+
+  /// No description provided for @moreAboutMe.
+  ///
+  /// In en, this message translates to:
+  /// **'MORE ABOUT ME'**
+  String get moreAboutMe;
+
+  /// No description provided for @experience.
+  ///
+  /// In en, this message translates to:
+  /// **'Experience'**
+  String get experience;
+
+  /// No description provided for @launchVentures.
+  ///
+  /// In en, this message translates to:
+  /// **'Launch Ventures \nFlutter Developer'**
+  String get launchVentures;
+
+  /// No description provided for @launchVenturesDescriptionPointOne.
+  ///
+  /// In en, this message translates to:
+  /// **'• Utilizing the Flutter framework to create cross-platform native applications.'**
+  String get launchVenturesDescriptionPointOne;
+
+  /// No description provided for @launchVenturesDescriptionPointTwo.
+  ///
+  /// In en, this message translates to:
+  /// **'• Collaborating with multidisciplinary teams to design, develop, and deploy fully functional applications.'**
+  String get launchVenturesDescriptionPointTwo;
+
+  /// No description provided for @launchVenturesDescriptionPointThree.
+  ///
+  /// In en, this message translates to:
+  /// **'• Successfully delivering applications meeting client specifications and requirements.'**
+  String get launchVenturesDescriptionPointThree;
+
+  /// No description provided for @mitFoss.
+  ///
+  /// In en, this message translates to:
+  /// **'MIT FOSS \nFull Stack Developer Intern'**
+  String get mitFoss;
+
+  /// No description provided for @mitFossDescriptionPointOne.
+  ///
+  /// In en, this message translates to:
+  /// **'• Designed comprehensive UML flowcharts and diagrams for web and mobile application structures.'**
+  String get mitFossDescriptionPointOne;
+
+  /// No description provided for @mitFossDescriptionPointTwo.
+  ///
+  /// In en, this message translates to:
+  /// **'• Created intuitive user interfaces using Figma for wireframing and prototyping.'**
+  String get mitFossDescriptionPointTwo;
+
+  /// No description provided for @mitFossDescriptionPointThree.
+  ///
+  /// In en, this message translates to:
+  /// **'• Developed responsive websites using HTML, CSS, and JavaScript for optimal functionality and user.'**
+  String get mitFossDescriptionPointThree;
+
+  /// No description provided for @viralFission.
+  ///
+  /// In en, this message translates to:
+  /// **'Viral Fission \nIntern'**
+  String get viralFission;
+
+  /// No description provided for @viralFissionDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'• Actively participated in the successful Vice Marketing Campaign and collaborated  with prominent platforms including Netflix, Myntra, and Jio Saavn for effective  marketing initiatives.'**
+  String get viralFissionDescription;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

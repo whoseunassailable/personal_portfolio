@@ -2,13 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:responsive_framework/responsive_breakpoints.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import '../../presentation/desktop_home_screen.dart';
-import '../../presentation/higher_desktop_resolution_screen.dart';
-import '../../presentation/mobile_home_screen.dart';
-import '../../presentation/tablet_home_screen.dart';
+import '../../features/presentation/responsive_layouts/desktop_home_screen.dart';
+import '../../features/presentation/responsive_layouts/higher_desktop_resolution_screen.dart';
+import '../../features/presentation/responsive_layouts/mobile_home_screen.dart';
+import '../../features/presentation/responsive_layouts/tablet_home_screen.dart';
 import '../constants/routes.dart';
 part 'app_router.g.dart';
 
+@riverpod
 GoRouter goRouter(GoRouterRef ref) {
   return GoRouter(
     initialLocation: '/',

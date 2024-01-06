@@ -1,4 +1,19 @@
  {
  "helloWorld": "Hello World!",
-  "nub": "Noob"
+  "aboutMe" : "About Me",
+  "name": "Hi! I am Rohan Bhande \nFlutter Developer",
+  "applicationDeveloper": "Flutter Developer",
+  "selfDescription" : "I am an Indian based Flutter developer focused \n on crafting clean & user-friendly mobile applications.\nI am extremely passionate about building excellent\nsoftware that improves the lives of those around me. ",
+  "moreAboutMe" : "MORE ABOUT ME",
+  "experience": "Experience",
+  "launchVentures" : "Launch Ventures \nFlutter Developer",
+  "launchVenturesDescriptionPointOne" : "• Utilizing the Flutter framework to create cross-platform native applications.",
+  "launchVenturesDescriptionPointTwo" : "• Collaborating with multidisciplinary teams to design, develop, and deploy fully functional applications.",
+  "launchVenturesDescriptionPointThree" : "• Successfully delivering applications meeting client specifications and requirements.",
+  "mitFoss": "MIT FOSS \nFull Stack Developer Intern",
+  "mitFossDescriptionPointOne": "• Designed comprehensive UML flowcharts and diagrams for web and mobile application structures.",
+  "mitFossDescriptionPointTwo": "• Created intuitive user interfaces using Figma for wireframing and prototyping.",
+  "mitFossDescriptionPointThree": "• Developed responsive websites using HTML, CSS, and JavaScript for optimal functionality and user.",
+  "viralFission": "Viral Fission \nIntern",
+  "viralFissionDescription": "• Actively participated in the successful Vice Marketing Campaign and collaborated \u2028with prominent platforms including Netflix, Myntra, and Jio Saavn for effective \u2028marketing initiatives."
  }
