@@ -14,6 +14,9 @@ import 'package:flutter/services.dart';
 class $AssetsIconsGen {
   const $AssetsIconsGen();
 
+  /// File path: assets/icons/about_me.svg
+  SvgGenImage get aboutMe => const SvgGenImage('assets/icons/about_me.svg');
+
   /// File path: assets/icons/bg_frame.svg
   SvgGenImage get bgFrame => const SvgGenImage('assets/icons/bg_frame.svg');
 
@@ -25,17 +28,123 @@ class $AssetsIconsGen {
   SvgGenImage get circularArrow =>
       const SvgGenImage('assets/icons/circular_arrow.svg');
 
+  /// File path: assets/icons/codemagic.svg
+  SvgGenImage get codemagic => const SvgGenImage('assets/icons/codemagic.svg');
+
+  /// File path: assets/icons/contact_us.svg
+  SvgGenImage get contactUs => const SvgGenImage('assets/icons/contact_us.svg');
+
+  /// File path: assets/icons/dart.svg
+  SvgGenImage get dart => const SvgGenImage('assets/icons/dart.svg');
+
+  /// File path: assets/icons/education.svg
+  SvgGenImage get education => const SvgGenImage('assets/icons/education.svg');
+
+  /// File path: assets/icons/email.svg
+  SvgGenImage get email => const SvgGenImage('assets/icons/email.svg');
+
+  /// File path: assets/icons/figma.svg
+  SvgGenImage get figma => const SvgGenImage('assets/icons/figma.svg');
+
+  /// File path: assets/icons/firebase.svg
+  SvgGenImage get firebase => const SvgGenImage('assets/icons/firebase.svg');
+
+  /// File path: assets/icons/flutter.svg
+  SvgGenImage get flutter => const SvgGenImage('assets/icons/flutter.svg');
+
   /// File path: assets/icons/front_image.svg
   SvgGenImage get frontImage =>
       const SvgGenImage('assets/icons/front_image.svg');
+
+  /// File path: assets/icons/github.svg
+  SvgGenImage get github => const SvgGenImage('assets/icons/github.svg');
+
+  /// File path: assets/icons/java.svg
+  SvgGenImage get java => const SvgGenImage('assets/icons/java.svg');
+
+  /// File path: assets/icons/javascript.svg
+  SvgGenImage get javascript =>
+      const SvgGenImage('assets/icons/javascript.svg');
+
+  /// File path: assets/icons/left_arrow.svg
+  SvgGenImage get leftArrow => const SvgGenImage('assets/icons/left_arrow.svg');
 
   /// File path: assets/icons/line_with_dots.svg
   SvgGenImage get lineWithDots =>
       const SvgGenImage('assets/icons/line_with_dots.svg');
 
+  /// File path: assets/icons/linkedin.svg
+  SvgGenImage get linkedin => const SvgGenImage('assets/icons/linkedin.svg');
+
+  /// File path: assets/icons/macos.svg
+  SvgGenImage get macos => const SvgGenImage('assets/icons/macos.svg');
+
+  /// File path: assets/icons/mysql.svg
+  SvgGenImage get mysql => const SvgGenImage('assets/icons/mysql.svg');
+
+  /// File path: assets/icons/obsidian.svg
+  SvgGenImage get obsidian => const SvgGenImage('assets/icons/obsidian.svg');
+
+  /// File path: assets/icons/projects.svg
+  SvgGenImage get projects => const SvgGenImage('assets/icons/projects.svg');
+
+  /// File path: assets/icons/python.svg
+  SvgGenImage get python => const SvgGenImage('assets/icons/python.svg');
+
+  /// File path: assets/icons/right_arrow.svg
+  SvgGenImage get rightArrow =>
+      const SvgGenImage('assets/icons/right_arrow.svg');
+
+  /// File path: assets/icons/stack-overflow.svg
+  SvgGenImage get stackOverflow =>
+      const SvgGenImage('assets/icons/stack-overflow.svg');
+
+  /// File path: assets/icons/ubuntu-icon.svg
+  SvgGenImage get ubuntuIcon =>
+      const SvgGenImage('assets/icons/ubuntu-icon.svg');
+
+  /// File path: assets/icons/uml.svg
+  SvgGenImage get uml => const SvgGenImage('assets/icons/uml.svg');
+
+  /// File path: assets/icons/windows.svg
+  SvgGenImage get windows => const SvgGenImage('assets/icons/windows.svg');
+
+  /// File path: assets/icons/work.svg
+  SvgGenImage get work => const SvgGenImage('assets/icons/work.svg');
+
   /// List of all assets
-  List<SvgGenImage> get values =>
-      [bgFrame, blurryBackground, circularArrow, frontImage, lineWithDots];
+  List<SvgGenImage> get values => [
+        aboutMe,
+        bgFrame,
+        blurryBackground,
+        circularArrow,
+        codemagic,
+        contactUs,
+        dart,
+        education,
+        email,
+        figma,
+        firebase,
+        flutter,
+        frontImage,
+        github,
+        java,
+        javascript,
+        leftArrow,
+        lineWithDots,
+        linkedin,
+        macos,
+        mysql,
+        obsidian,
+        projects,
+        python,
+        rightArrow,
+        stackOverflow,
+        ubuntuIcon,
+        uml,
+        windows,
+        work
+      ];
 }
 
 class $AssetsImagesGen {
@@ -45,12 +154,29 @@ class $AssetsImagesGen {
   AssetGenImage get bgFrame =>
       const AssetGenImage('assets/images/bg_frame.jpg');
 
+  /// File path: assets/images/large_ss_bg.jpg
+  AssetGenImage get largeSsBg =>
+      const AssetGenImage('assets/images/large_ss_bg.jpg');
+
+  /// File path: assets/images/mobile_image.jpg
+  AssetGenImage get mobileImage =>
+      const AssetGenImage('assets/images/mobile_image.jpg');
+
   /// File path: assets/images/section_image.jpg
   AssetGenImage get sectionImage =>
       const AssetGenImage('assets/images/section_image.jpg');
 
+  /// File path: assets/images/small_ss_bg_1.jpg
+  AssetGenImage get smallSsBg1 =>
+      const AssetGenImage('assets/images/small_ss_bg_1.jpg');
+
+  /// File path: assets/images/small_ss_bg_2.jpg
+  AssetGenImage get smallSsBg2 =>
+      const AssetGenImage('assets/images/small_ss_bg_2.jpg');
+
   /// List of all assets
-  List<AssetGenImage> get values => [bgFrame, sectionImage];
+  List<AssetGenImage> get values =>
+      [bgFrame, largeSsBg, mobileImage, sectionImage, smallSsBg1, smallSsBg2];
 }
 
 class Assets {

@@ -190,8 +190,284 @@ abstract class AppLocalizations {
   /// No description provided for @viralFissionDescription.
   ///
   /// In en, this message translates to:
-  /// **'• Actively participated in the successful Vice Marketing Campaign and collaborated  with prominent platforms including Netflix, Myntra, and Jio Saavn for effective  marketing initiatives.'**
+  /// **'• Actively participated in the successful Vice Marketing Campaign and collaborated with prominent platforms including Netflix, Myntra, and Jio Saavn for effective  marketing initiatives.'**
   String get viralFissionDescription;
+
+  /// No description provided for @kokoFreshAgent.
+  ///
+  /// In en, this message translates to:
+  /// **'01. Koko Fresh Agent'**
+  String get kokoFreshAgent;
+
+  /// No description provided for @kokoFreshAgentDescription.
+  ///
+  /// In en, this message translates to:
+  /// **'Created a data retrieval application tailored for milk delivery agents, including features such as graph visualization, MPesa payment integration, NFC card reading, daily sales tracking, token generation for lost Mpesa transactions, top-up history management, create and reset pin, etc.'**
+  String get kokoFreshAgentDescription;
+
+  /// No description provided for @coventryMeditation.
+  ///
+  /// In en, this message translates to:
+  /// **'02. Coventry Meditation'**
+  String get coventryMeditation;
+
+  /// No description provided for @kokoFreshOperator.
+  ///
+  /// In en, this message translates to:
+  /// **'03. Koko Fresh Operator'**
+  String get kokoFreshOperator;
+
+  /// No description provided for @snapshots.
+  ///
+  /// In en, this message translates to:
+  /// **'Snapshots'**
+  String get snapshots;
+
+  /// No description provided for @projects.
+  ///
+  /// In en, this message translates to:
+  /// **'Projects'**
+  String get projects;
+
+  /// No description provided for @skills.
+  ///
+  /// In en, this message translates to:
+  /// **'Skills'**
+  String get skills;
+
+  /// No description provided for @osOne.
+  ///
+  /// In en, this message translates to:
+  /// **'Windows'**
+  String get osOne;
+
+  /// No description provided for @osTwo.
+  ///
+  /// In en, this message translates to:
+  /// **'Linux'**
+  String get osTwo;
+
+  /// No description provided for @osThree.
+  ///
+  /// In en, this message translates to:
+  /// **'MacOs'**
+  String get osThree;
+
+  /// No description provided for @flutter.
+  ///
+  /// In en, this message translates to:
+  /// **'Flutter'**
+  String get flutter;
+
+  /// No description provided for @dart.
+  ///
+  /// In en, this message translates to:
+  /// **'Dart'**
+  String get dart;
+
+  /// No description provided for @python.
+  ///
+  /// In en, this message translates to:
+  /// **'Python'**
+  String get python;
+
+  /// No description provided for @java.
+  ///
+  /// In en, this message translates to:
+  /// **'Java'**
+  String get java;
+
+  /// No description provided for @javaScript.
+  ///
+  /// In en, this message translates to:
+  /// **'JavaScript'**
+  String get javaScript;
+
+  /// No description provided for @mySql.
+  ///
+  /// In en, this message translates to:
+  /// **'MySQL'**
+  String get mySql;
+
+  /// No description provided for @firebase.
+  ///
+  /// In en, this message translates to:
+  /// **'Firebase'**
+  String get firebase;
+
+  /// No description provided for @figma.
+  ///
+  /// In en, this message translates to:
+  /// **'Figma'**
+  String get figma;
+
+  /// No description provided for @obsidian.
+  ///
+  /// In en, this message translates to:
+  /// **'Obsdian'**
+  String get obsidian;
+
+  /// No description provided for @umlDiagrams.
+  ///
+  /// In en, this message translates to:
+  /// **'UML Diagram'**
+  String get umlDiagrams;
+
+  /// No description provided for @cicd.
+  ///
+  /// In en, this message translates to:
+  /// **'CI-CD'**
+  String get cicd;
+
+  /// No description provided for @os.
+  ///
+  /// In en, this message translates to:
+  /// **'Operating Systems'**
+  String get os;
+
+  /// No description provided for @languages.
+  ///
+  /// In en, this message translates to:
+  /// **'Languages'**
+  String get languages;
+
+  /// No description provided for @framework.
+  ///
+  /// In en, this message translates to:
+  /// **'Framework'**
+  String get framework;
+
+  /// No description provided for @database.
+  ///
+  /// In en, this message translates to:
+  /// **'Database'**
+  String get database;
+
+  /// No description provided for @tools.
+  ///
+  /// In en, this message translates to:
+  /// **'Tools'**
+  String get tools;
+
+  /// No description provided for @dontFeelShy.
+  ///
+  /// In en, this message translates to:
+  /// **'Don’t feel Shy'**
+  String get dontFeelShy;
+
+  /// No description provided for @gotAQuestion.
+  ///
+  /// In en, this message translates to:
+  /// **'Got a question or proposal, or just want to say hello? Go ahead.'**
+  String get gotAQuestion;
+
+  /// No description provided for @yourName.
+  ///
+  /// In en, this message translates to:
+  /// **'Your Name'**
+  String get yourName;
+
+  /// No description provided for @yourEmail.
+  ///
+  /// In en, this message translates to:
+  /// **'Your Email'**
+  String get yourEmail;
+
+  /// No description provided for @typeYourMessageHere.
+  ///
+  /// In en, this message translates to:
+  /// **'Type You message here ....'**
+  String get typeYourMessageHere;
+
+  /// No description provided for @send.
+  ///
+  /// In en, this message translates to:
+  /// **'Send'**
+  String get send;
+
+  /// No description provided for @xxxs.
+  ///
+  /// In en, this message translates to:
+  /// **'xxxs'**
+  String get xxxs;
+
+  /// No description provided for @xxs.
+  ///
+  /// In en, this message translates to:
+  /// **'xxs'**
+  String get xxs;
+
+  /// No description provided for @xs.
+  ///
+  /// In en, this message translates to:
+  /// **'xs'**
+  String get xs;
+
+  /// No description provided for @s.
+  ///
+  /// In en, this message translates to:
+  /// **'s'**
+  String get s;
+
+  /// No description provided for @m.
+  ///
+  /// In en, this message translates to:
+  /// **'m'**
+  String get m;
+
+  /// No description provided for @l.
+  ///
+  /// In en, this message translates to:
+  /// **'l'**
+  String get l;
+
+  /// No description provided for @xl.
+  ///
+  /// In en, this message translates to:
+  /// **'xl'**
+  String get xl;
+
+  /// No description provided for @xxl.
+  ///
+  /// In en, this message translates to:
+  /// **'xxl'**
+  String get xxl;
+
+  /// No description provided for @xxxl.
+  ///
+  /// In en, this message translates to:
+  /// **'xxxl'**
+  String get xxxl;
+
+  /// No description provided for @socials.
+  ///
+  /// In en, this message translates to:
+  /// **'Socials'**
+  String get socials;
+
+  /// No description provided for @github.
+  ///
+  /// In en, this message translates to:
+  /// **'GitHub'**
+  String get github;
+
+  /// No description provided for @linkedIn.
+  ///
+  /// In en, this message translates to:
+  /// **'LinkedIn'**
+  String get linkedIn;
+
+  /// No description provided for @stackOverflow.
+  ///
+  /// In en, this message translates to:
+  /// **'StackOverflow'**
+  String get stackOverflow;
+
+  /// No description provided for @email.
+  ///
+  /// In en, this message translates to:
+  /// **'Email'**
+  String get email;
 }
 
 class _AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

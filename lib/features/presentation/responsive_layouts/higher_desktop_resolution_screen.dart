@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
 import 'package:shadow/shadow.dart';
-
 import '../../../core/constants/app_colors.dart';
 import '../../../gen/assets.gen.dart';
 
@@ -45,6 +43,5 @@ class HigherResolutionScreen extends StatelessWidget {
         ),
       ),
     );
-    ;
   }
 }

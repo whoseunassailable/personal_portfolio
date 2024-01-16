@@ -1,63 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:shadow/shadow.dart';
 import '../../gen/assets.gen.dart';
 import '../../l10n/app_localizations.dart';
 import '../constants/app_colors.dart';
-
-// class CustomButton extends StatelessWidget {
-//   final double borderRadius;
-//   final Widget? icon;
-//   final double height;
-//   final double width;
-//   final double? iconWidth;
-//   const CustomButton(
-//       {super.key,
-//       required this.borderRadius,
-//       this.icon,
-//       required this.width,
-//       required this.height,
-//       this.iconWidth});
-//
-//   @override
-//   Widget build(BuildContext context) {
-//     return Row(
-//       children: [
-//         SizedBox(
-//           height: height,
-//           width: width,
-//           child: ElevatedButton(
-//             style: ElevatedButton.styleFrom(
-//                 backgroundColor: AppColors.buttonColor, // Background color
-//                 shape: RoundedRectangleBorder(
-//                   borderRadius: BorderRadius.circular(
-//                     30.0,
-//                   ), // Adjust the radius as needed
-//                 ),
-//                 alignment: Alignment.centerLeft),
-//             onPressed: () {},
-//             child: Row(
-//               mainAxisAlignment: MainAxisAlignment.start,
-//               children: [
-//                 Text(
-//                   AppLocalizations.of(context).moreAboutMe,
-//                   style: const TextStyle(
-//                       color: AppColors.textColor,
-//                       fontWeight: FontWeight.w700,
-//                       fontSize: 24),
-//                 ),
-//                 SizedBox(width: width / 18),
-//                 Assets.icons.circularArrow.svg(
-//                   // width: iconWidth,
-//                   height: height * 0.78,
-//                 ),
-//               ],
-//             ),
-//           ),
-//         ),
-//       ],
-//     );
-//   }
-// }
 
 class CustomButton extends StatelessWidget {
   final double height;

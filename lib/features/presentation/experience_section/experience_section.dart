@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:personal_portfolio/core/widgets/header_and_description.dart';
-import 'package:personal_portfolio/core/widgets/hover_action.dart';
+import 'package:personal_portfolio/core/widgets/hover_widget.dart';
 import 'package:personal_portfolio/core/widgets/section_header.dart';
 import 'package:personal_portfolio/l10n/app_localizations.dart';
 import 'package:shadow/shadow.dart';
@@ -20,8 +20,6 @@ class _ExperienceSectionState extends State<ExperienceSection> {
     final height = MediaQuery.of(context).size.height;
     final width = MediaQuery.of(context).size.width;
     bool isHovered = false;
-    // Access the list of descriptions
-
     return Container(
       height: height + height / 4,
       width: width,
@@ -30,7 +28,8 @@ class _ExperienceSectionState extends State<ExperienceSection> {
         children: [
           SectionHeader(
             text: AppLocalizations.of(context).experience,
-            rotatedBoxQuarterTurn: 3,
+            rotatedBoxText: 3,
+            rotatedBoxContainer: 4,
             borderRadius: const BorderRadius.only(
               bottomRight: Radius.circular(15.0),
               topRight: Radius.circular(15.0),

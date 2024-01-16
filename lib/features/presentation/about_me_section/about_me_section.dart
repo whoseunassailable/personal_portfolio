@@ -23,7 +23,8 @@ class AboutMeSection extends StatelessWidget {
               SizedBox(width: width / 15),
               SectionHeader(
                 text: AppLocalizations.of(context).aboutMe,
-                rotatedBoxQuarterTurn: 1,
+                rotatedBoxText: 1,
+                rotatedBoxContainer: 4,
                 borderRadius: const BorderRadius.only(
                   topLeft: Radius.circular(15.0),
                   bottomLeft: Radius.circular(15.0),

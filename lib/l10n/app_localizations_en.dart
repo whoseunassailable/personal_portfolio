@@ -53,5 +53,143 @@ class AppLocalizationsEn extends AppLocalizations {
   String get viralFission => 'Viral Fission \nIntern';
 
   @override
-  String get viralFissionDescription => '• Actively participated in the successful Vice Marketing Campaign and collaborated  with prominent platforms including Netflix, Myntra, and Jio Saavn for effective  marketing initiatives.';
+  String get viralFissionDescription => '• Actively participated in the successful Vice Marketing Campaign and collaborated with prominent platforms including Netflix, Myntra, and Jio Saavn for effective  marketing initiatives.';
+
+  @override
+  String get kokoFreshAgent => '01. Koko Fresh Agent';
+
+  @override
+  String get kokoFreshAgentDescription => 'Created a data retrieval application tailored for milk delivery agents, including features such as graph visualization, MPesa payment integration, NFC card reading, daily sales tracking, token generation for lost Mpesa transactions, top-up history management, create and reset pin, etc.';
+
+  @override
+  String get coventryMeditation => '02. Coventry Meditation';
+
+  @override
+  String get kokoFreshOperator => '03. Koko Fresh Operator';
+
+  @override
+  String get snapshots => 'Snapshots';
+
+  @override
+  String get projects => 'Projects';
+
+  @override
+  String get skills => 'Skills';
+
+  @override
+  String get osOne => 'Windows';
+
+  @override
+  String get osTwo => 'Linux';
+
+  @override
+  String get osThree => 'MacOs';
+
+  @override
+  String get flutter => 'Flutter';
+
+  @override
+  String get dart => 'Dart';
+
+  @override
+  String get python => 'Python';
+
+  @override
+  String get java => 'Java';
+
+  @override
+  String get javaScript => 'JavaScript';
+
+  @override
+  String get mySql => 'MySQL';
+
+  @override
+  String get firebase => 'Firebase';
+
+  @override
+  String get figma => 'Figma';
+
+  @override
+  String get obsidian => 'Obsdian';
+
+  @override
+  String get umlDiagrams => 'UML Diagram';
+
+  @override
+  String get cicd => 'CI-CD';
+
+  @override
+  String get os => 'Operating Systems';
+
+  @override
+  String get languages => 'Languages';
+
+  @override
+  String get framework => 'Framework';
+
+  @override
+  String get database => 'Database';
+
+  @override
+  String get tools => 'Tools';
+
+  @override
+  String get dontFeelShy => 'Don’t feel Shy';
+
+  @override
+  String get gotAQuestion => 'Got a question or proposal, or just want to say hello? Go ahead.';
+
+  @override
+  String get yourName => 'Your Name';
+
+  @override
+  String get yourEmail => 'Your Email';
+
+  @override
+  String get typeYourMessageHere => 'Type You message here ....';
+
+  @override
+  String get send => 'Send';
+
+  @override
+  String get xxxs => 'xxxs';
+
+  @override
+  String get xxs => 'xxs';
+
+  @override
+  String get xs => 'xs';
+
+  @override
+  String get s => 's';
+
+  @override
+  String get m => 'm';
+
+  @override
+  String get l => 'l';
+
+  @override
+  String get xl => 'xl';
+
+  @override
+  String get xxl => 'xxl';
+
+  @override
+  String get xxxl => 'xxxl';
+
+  @override
+  String get socials => 'Socials';
+
+  @override
+  String get github => 'GitHub';
+
+  @override
+  String get linkedIn => 'LinkedIn';
+
+  @override
+  String get stackOverflow => 'StackOverflow';
+
+  @override
+  String get email => 'Email';
 }

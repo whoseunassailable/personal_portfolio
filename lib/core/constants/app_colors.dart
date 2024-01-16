@@ -6,4 +6,5 @@ class AppColors {
   static const shadowColor = Color(0XFFC6C6BA);
   static const textColor = Color(0XFF3A3329);
   static const buttonColor = Color(0XFFFAC7C7);
+  static const greyColor = Color(0XFFD9D9D9);
 }
