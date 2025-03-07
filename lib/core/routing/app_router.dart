@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:responsive_framework/responsive_breakpoints.dart';
+import 'package:responsive_framework/responsive_framework.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 import '../../features/presentation/responsive_layouts/desktop_home_screen.dart';
 import '../../features/presentation/responsive_layouts/higher_desktop_resolution_screen.dart';
